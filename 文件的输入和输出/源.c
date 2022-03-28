@@ -65,7 +65,7 @@ int main()
 
         }
     }
-    
+    system("pause");
     return 0;
 }
 
@@ -84,6 +84,8 @@ void Sort(Node a[], int n)                                      // 降序排序
             strcpy(a[j + 1 ].str, name);
         }
 }
+
+
 //要将源代码和txt文件放再同一文件夹中
 // 
 
